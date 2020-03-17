@@ -7,3 +7,7 @@ I establish this repo to keeping practice my coding.
 
 # What included in this project
 
+
+# License and copyright
+The content in this project belong to Udacity. This project only for my personal practice purposes.
+
